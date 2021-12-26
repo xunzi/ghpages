@@ -5,7 +5,7 @@ tags: ['terraform', 'lxd']
 slug: terraform-und-lxd
 ---
 
-Terraform ist eine deklarative Beschreibungssprache für Cloud-Infrastrukturen.
+[Terraform](https://www.terraform.io/) ist eine deklarative Beschreibungssprache für Cloud-Infrastrukturen.
 
 Unterstützt werden viele Cloudprovider, unter anderem auch lxd.
 
