@@ -6,6 +6,8 @@ copyright = "©2021 C. Drexler"
 languageCode = "de-de"
 hasCJKLanguage = false
 
+publishDir = "output"
+
 enableRobotsTXT = true
 
 enableGitInfo = true
@@ -26,9 +28,9 @@ unsafe = true  # enable raw HTML in Markdown
 [params]
 style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
 #dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
-logo = "images/stockfische.jpg"  # if you have a logo png
+logo = "images/wolken.jpg"  # if you have a logo png
 slogan = "100% JavaScript-free"
-license = ""  # CC License
+license = "MIT License"  # CC License
 fullRss = false # Puts entire HTML post into rss 'description' tag. If unset, default is false.
 
 [params.comments]
