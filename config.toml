@@ -1,7 +1,7 @@
 baseURL = "https://drexler-online.net"
 title = "Bloggggggg"
 theme = "hugo-notepadium"
-copyright = "©2021 C. Drexler"
+copyright = "© 2008 - 2021 C. Drexler"
 
 languageCode = "de-de"
 hasCJKLanguage = false
@@ -30,7 +30,7 @@ style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: bas
 #dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
 logo = "images/wolken.jpg"  # if you have a logo png
 slogan = "100% JavaScript-free"
-license = "MIT License"  # CC License
+license = ""
 fullRss = false # Puts entire HTML post into rss 'description' tag. If unset, default is false.
 
 [params.comments]
