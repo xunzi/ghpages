@@ -75,7 +75,7 @@ url = "https://twitter.com/xunzi"
 
 [params.profile]
   enable = true
-  avatar = "/images/cdrexler.jpg"
+  avatar = ""
   name = "Christian Drexler"
   bio = "Ex-Sinologe, Systemadministrator, betreibt Cloud-Infrastruktur für einen großen Mobilfunk- und Festnetzanbieter"  # support markdown syntax
   twitter = "xunzi"  # https://twitter.com/XXX
