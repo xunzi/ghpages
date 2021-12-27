@@ -11,7 +11,7 @@ Unterstützt werden viele Cloudprovider, unter anderem auch lxd.
 
 Ein kleines Beispiel für das Deployment von zwei lxd-Containern mit PostgreSQL:
 
-```yaml
+```terraform
 terraform {
 
 	required_providers {
