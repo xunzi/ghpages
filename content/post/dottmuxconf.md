@@ -6,6 +6,8 @@ slug: dot-tumxconf
 ---
 Tmux-Konfig mit grüner Statusleite und veränderten Keybinding.
 
+<!--more-->
+
 ```
 unbind C-b
 set -g prefix C-g

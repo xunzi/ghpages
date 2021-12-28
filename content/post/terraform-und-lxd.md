@@ -9,7 +9,9 @@ slug: terraform-und-lxd
 
 Unterstützt werden viele Cloudprovider, unter anderem auch lxd.
 
-Ein kleines Beispiel für das Deployment von zwei lxd-Containern mit PostgreSQL:
+<!--more-->
+
+Ein kleines Beispiel für das Deployment von zwei lxd-Containern:
 
 ```terraform
 terraform {

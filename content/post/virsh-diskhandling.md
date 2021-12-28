@@ -6,6 +6,7 @@ slug: virsh-disk-handling
 ---
 Wenn die qemu/kvm-Platten vollaufen, kann man relativ einfach eine neue Platte erzeugen und mounten. Das ist in vielen Fällen weniger kritisch, als existierende Diskimages, Partitionen und Dateisysteme zu vergrößern.
 
+<!--more-->
 
   * Neue Platte erzeugen
 

@@ -6,6 +6,8 @@ slug: dot-zshrc
 ---
 Im Laufe der Jahre gewachsene Zsh-Konfig.
 
+<!--more-->
+
 ```
 # Enable compsys completion.
 bindkey -e

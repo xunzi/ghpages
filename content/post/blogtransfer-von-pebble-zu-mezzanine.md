@@ -10,6 +10,7 @@ Mezzanine/Django-Objeckte anlegt inkl. Tags und Kategorien.
 
 Das Skript gibt es als [Gist][] bei Github.
 
+<!--more-->
 
 Um wenigstens die Syndication-Clients nicht zu verschrecken, schubsen
 die folgenden Rewrite-Regeln in der Nginx-Konfig die Requests zu den
