@@ -16,6 +16,6 @@ aber das ist mir momentan nicht so wichtig. Zum Ausgleich ist Prosody
 Virtualhost-fähig und in Lua geschrieben, eine Sprache, die ich mir
 sowieso immer schon mal ansehen wollte.
 
-  [Server-Renovierung]: http://www.drexler-online.net/pebble/2009/07/12/upgrade_auf_lenny_und_umstellung_auf_dovecot.html
+  [Server-Renovierung]: upgrade_auf_lenny_und_umstellung_auf_dovecot.html
   [Openfire]: http://www.igniterealtime.org/projects/openfire/index.jsp
   [Prosody]: http://prosody.im/
