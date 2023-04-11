@@ -5,11 +5,14 @@ tags: ['pleroma', 'postgres']
 slug: pleroma-remove-rum-index
 ---
 
-When setting up pleroma for my activity-pub instance I was a bit over-zealous and selected the option "Enable RUM index" without knowing what it meant.
+When setting up pleroma for my activity-pub instance I was a bit over-zealous and selected the option "Enable RUM index" without knowing what it means.
 
-As this is a single user instance using RUM indices is really not neccessary, also I found out that they are quite heavy in disk usage, blowing up the db by several GB.
+As this is a single user instance using RUM indices is really not neccessary, also I found out that they are quite heavy in disk usage, blowing up the db by several GB. I also found out that creating these indices takes a very long time when I upgraded to a newer PostgreSQL version and had to import the dump file. Creation of the indices took approximately two hours on a small Hetzner cloud instance.
 
-As for documentation I only found the opposite process described (enabling RUM indices) so I thought I might note down the steps to disable them:
+As for documentation I only found the opposite process described (enabling RUM indices) so I thought I might note down the steps to disable them.
+
+The documentation for Akkoma suggests that this procedure should also work there but I did not test it myself.
+
 
 ## Stop Nginx
 ```shell
