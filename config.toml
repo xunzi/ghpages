@@ -1,7 +1,7 @@
 baseURL = "https://drexler-online.net"
 title = "Bloggggggg"
 theme = "hugo-notepadium"
-copyright = "© 2008 - 2022 C. Drexler"
+copyright = "© 2008 - 2023 C. Drexler"
 
 languageCode = "de-de"
 hasCJKLanguage = false
