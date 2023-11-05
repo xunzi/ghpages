@@ -1,6 +1,6 @@
 baseURL = "https://drexler-online.net"
 title = "Bloggggggg"
-theme = "hugo-notepadium"
+theme = "PaperMod"
 copyright = "© 2008 - 2023 C. Drexler"
 
 languageCode = "de-de"
@@ -68,13 +68,13 @@ url = "https://gohugo.io/"
 title = "Github"
 url = "https://github.com/xunzi"
 
-[[params.nav.custom]]
-title = "Twitter"
-url = "https://twitter.com/xunzi"
+#[[params.nav.custom]]
+#title = "Twitter"
+#url = "https://twitter.com/xunzi"
 
 [[params.nav.custom]]
-title = "Mastodon"
-url = "https://social.konsolenknecht.de/@cd"
+title = "ActivityPub"
+url = "https://social.konsolenknecht.de/users/cd"
 
 
 [params.profile]
@@ -82,6 +82,6 @@ url = "https://social.konsolenknecht.de/@cd"
   avatar = ""
   name = "Christian Drexler"
   bio = "Ex-Sinologe, Systemadministrator, betreibt Cloud-Infrastruktur für einen großen Mobilfunk- und Festnetzanbieter"  # support markdown syntax
-  twitter = "xunzi"  # https://twitter.com/XXX
+  #twitter = "xunzi"  # https://twitter.com/XXX
   github = "xunzi"  # https://github.com/XXX
   email = "webmaster@drexler-online.net"

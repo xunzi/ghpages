@@ -1,6 +1,0 @@
-[submodule "themes/hugo-notepadium"]
-	path = themes/hugo-notepadium
-	url = https://github.com/cntrump/hugo-notepadium.git
-[submodule "themes/hugo-flex"]
-	path = themes/hugo-flex
-	url = https://github.com/de-souza/hugo-flex.git

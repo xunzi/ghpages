@@ -17,6 +17,15 @@ Herzlich willkommen. Dies ist eindeutig einer der weniger stark besuchten Winkel
 ![](/images/cdrexler.jpg)
 Ich habe mehr als 20 Jahre Berufserfahrung als Systemadministrator für Unix- und Linux-Systeme mit umfangreichen Kenntnissen in den  Bereichen Virtualisierung, Netzwerk und Automatisierung.
 
-## Kontakt
+
+## Impressum
+
+### Kontakt
 
 Christian Drexler <webmaster@drexler-online.net>
+
+### Datenschutzerklärung
+
+Auf dieser Webseite werden keine personenbezogenen Daten erhoben, gespeichert oder verarbeitet. Es werden keine Cookies verwendet.
+
+
