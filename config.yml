@@ -123,6 +123,15 @@ menu:
       name: about
       url: /about
       weight: 10
+    - identifier: activityPub
+      name: activity pub
+      url: https://social.konsolenknecht.de/users/cd
+      weight: 30
+    - identifier: github
+      name: github
+      url: https://github.com/xunzi
+      weight: 40
+
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

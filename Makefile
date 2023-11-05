@@ -1,5 +1,5 @@
 build: 
-	hugo
+	hugo --config config.yml --destination output/
 
 deploy: build
 	rsync -av output/ cdrexler@drexler-online.net:/var/www/hugo
