@@ -20,7 +20,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Yaub (yet another useless blog)
   description: "One of the dustier corners of the internet"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, PaperMod, personal, lxd, activitypub]
   author: Christian Drexler
   # author: ["Me", "You"] # multiple authors
   images: []
@@ -75,15 +75,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Herzlich willkommen zu einer der staubigeren Ecken des Internets
+    Title: "Guten Tag \U0001F44B"
+    Content: Herzlich willkommen zu einer der staubigeren Ecken des Internets. Details zu dieser Seite findet Ihr [hier](/about)
 
   socialIcons:
     - name: activity pub
       url: "https://social.konsolenknecht.de/users/cd"
     - name: github
       url: "https://github.com/xunzi"
-
+    - name: linkedin
+      url: "https://www.linkedin.com/in/cdrexler"
   analytics:
     google:
       SiteVerificationTag: 
