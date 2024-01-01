@@ -126,7 +126,7 @@ menu:
       weight: 10
     - identifier: activityPub
       name: activity pub
-      url: https://social.konsolenknecht.de/users/cd
+      url: https://fedi.konsolenknecht.de/cd
       weight: 30
     - identifier: github
       name: github
