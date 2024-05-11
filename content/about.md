@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = ""
-date = "2021-12-25"
+date = "2024-05-11"
 aliases = ["contact"]
 author = "Christian Drexler"
 +++
@@ -9,8 +9,6 @@ author = "Christian Drexler"
 # Willkommen
 
 Herzlich willkommen. Dies ist eindeutig einer der weniger stark besuchten Winkel des Internet, deshalb bin ich überrascht aber natürlich auch hoch erfreut über jeden Besucher.
-
-Hier finden sich Blogeinträge zu verschiedenen Themen, der [älteste](/post/ssl-problem) ist von 2008. Die meisten Einträdge sind deshalb wohl nicht mehr unbeding relevant und müssten eigentlich mal in ein Archiv verschoben werden. 
 
 # Über mich
 
