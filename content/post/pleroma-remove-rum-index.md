@@ -1,7 +1,7 @@
 ---
 title: "Pleroma: Remove Rum Index"
 date: 2023-04-11
-tags: ['pleroma', 'postgres']
+tags: ['pleroma', 'postgres', 'fediadmin']
 slug: pleroma-remove-rum-index
 ---
 
