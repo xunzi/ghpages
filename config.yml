@@ -80,7 +80,7 @@ params:
 
   socialIcons:
     - name: activity pub
-      url: "https://social.konsolenknecht.de/users/cd"
+      url: "https://fedi.konsolenknecht.de/cd"
     - name: github
       url: "https://github.com/xunzi"
     - name: linkedin
