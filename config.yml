@@ -60,18 +60,20 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
+    enabled: true # needs to be explicitly set
+    title: "Welcome to one of the dustier corners of the internet"
+    subtitle: "Online since modems were a thing"
+    imageUrl: "/images/wolken.jpg"
+    imageWidth: 240
+    imageHeight: 240
     imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
+      - name: posts
+        url: post
+      - name: tags
         url: tags
+      - name: about
+        url: about
 
   # home-info mode
   homeInfoParams:
@@ -79,12 +81,14 @@ params:
     Content: Herzlich willkommen zu einer der staubigeren Ecken des Internets. Details zu dieser Seite findet Ihr [hier](/about)
 
   socialIcons:
-    - name: activity pub
-      url: "https://fedi.konsolenknecht.de/cd"
+    - name: mastodon
+      url: "https://fedi.konsolenknecht.de/users/cd"
     - name: github
       url: "https://github.com/xunzi"
     - name: linkedin
       url: "https://www.linkedin.com/in/cdrexler"
+    - name: bluesky
+      url: "https://bsky.app/profile/xunzi.de"
   analytics:
     google:
       SiteVerificationTag: 
@@ -124,13 +128,9 @@ menu:
       name: about
       url: /about
       weight: 10
-    - identifier: activityPub
-      name: activity pub
-      url: https://fedi.konsolenknecht.de/cd
-      weight: 30
-    - identifier: github
-      name: github
-      url: https://github.com/xunzi
+    - identifier: posts
+      name: posts
+      url: /post
       weight: 40
 
 

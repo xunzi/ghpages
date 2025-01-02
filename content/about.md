@@ -12,7 +12,7 @@ Herzlich willkommen. Dies ist eindeutig einer der weniger stark besuchten Winkel
 
 # Über mich
 
-![](/images/cdrexler.jpg)
+![](/images/portrait-vintage.png)
 Ich habe mehr als 20 Jahre Berufserfahrung als Systemadministrator für Unix- und Linux-Systeme mit umfangreichen Kenntnissen in den  Bereichen Virtualisierung, Netzwerk und Automatisierung.
 
 ## Impressum
