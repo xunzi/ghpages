@@ -1,6 +1,6 @@
 baseURL: "https://drexler-online.net"
 title: Yaub (yet another useless blog)
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
